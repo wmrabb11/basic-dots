@@ -1,6 +1,6 @@
 # Basic Dotfiles
 ## Description
-I like to have a GitHub repo with an install script so I can easily setup my tmux/vim config when working on a new machine
+Easily setup a vim/tmux config when working in a new environment
 
 ## Content
 This repo contains the dotfiles for:
