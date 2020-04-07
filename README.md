@@ -11,3 +11,6 @@ This repo contains the dotfiles for:
     git clone https://github.com/wmrabb11/basic-dots
     cd basic-dots
     ./setup.sh
+
+## Example
+![img](images/example.png)
